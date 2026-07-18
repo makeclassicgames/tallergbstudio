@@ -57,6 +57,6 @@ En la parte inferior derecha de la interfaz, encontramos el panel de script y ev
 GBStudio incluye un emulador integrado que nos permite probar nuestro juego directamente desde la interfaz de desarrollo. Para ejecutar el juego en el emulador, simplemente haz clic en el botón "Play" (Reproducir) en la barra de herramientas. Esto abrirá una ventana con el emulador, donde podrás interactuar con tu juego y verificar su funcionamiento.
 
 <figure>
-  <img src="/img/gbstudioemulator.png" alt="Emulador integrado de GBStudio">
+  <img src="/tallergbstudio/img/gbstudioemulator.png" alt="Emulador integrado de GBStudio">
   <figcaption>Figura 3: Emulador integrado de GBStudio</figcaption>
 </figure>
