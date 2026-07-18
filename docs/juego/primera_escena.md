@@ -24,3 +24,17 @@ Vamos a ver algunas de estas propiedades:
 * **Fondo**: Podemos seleccionar un fondo para la escena. Esto nos permite cambiar el aspecto visual de la escena y darle un estilo único. Podemos seleccionar un fondo de los recursos del proyecto.
 * **Sprite jugador**: Podemos seleccionar el sprite del jugador para la escena. Esto nos permite cambiar el aspecto del jugador y darle un estilo único. Podemos seleccionar un sprite de los recursos del proyecto.
 * **Paletas**: Podemos seleccionar las paletas de colores para la escena. Esto nos permite cambiar los colores de los sprites y el fondo de la escena. Podemos seleccionar paletas de los recursos del proyecto; para los diferentes entornos de ejecución (Game Boy/Game Boy Color, Game Boy Player, etc.) podemos seleccionar diferentes paletas para cada uno de ellos.
+
+## Tipos de escena
+
+Vamos a ver los diferentes tipos de escena que podemos seleccionar en GBStudio:
+
+* **Plataformas**: Este tipo de escena permite al jugador moverse y saltar por la escena, interactuando con plataformas y obstáculos. Es el tipo de escena más común para juegos de plataformas.
+
+* **Vista Cenital 2D**: Este tipo de escena permite al jugador moverse en todas las direcciones, como en un juego de rol o aventura. El jugador puede interactuar con objetos y personajes en la escena.
+
+* **Aventura Gráfica**: Este tipo de escena permite al jugador interactuar con objetos y personajes en la escena, resolviendo puzzles y avanzando en la historia del juego. Es ideal para juegos de aventura y narrativa.
+
+* **MataMarcianos (Shot'emup)**: Este tipo de escena permite al jugador disparar a enemigos y esquivar obstáculos, como en un juego de disparos. Es ideal para juegos de acción y arcade.
+
+* **Logo**: Esta tipo de escena permite mostrar un logo o imagen al inicio del juego, antes de que comience la acción. Es ideal para mostrar el logo del desarrollador o del juego.
