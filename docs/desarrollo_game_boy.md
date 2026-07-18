@@ -11,7 +11,7 @@ Aunque podrías pensar que desarrollar para consolas antiguas como la Game Boy y
 * **Cartuchos y hardware:** Para probar y jugar tus juegos en una consola real, necesitarás cartuchos de desarrollo o adaptadores que permitan cargar tus juegos en la Game Boy o Game Boy Color. Existen cartuchos flash y adaptadores que permiten transferir tus juegos desde la computadora a la consola, lo que te permite experimentar la experiencia de juego en el hardware original.
 
 <figure>
-<img src="{% site_url %}/img/everdrive.jpeg" alt="Flash Cart Everdrive para Game Boy Color" title="Flash Cart Everdrive para Game Boy Color" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
+<img src="/tallergbstudio/img/everdrive.jpeg" alt="Flash Cart Everdrive para Game Boy Color" title="Flash Cart Everdrive para Game Boy Color" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
 <caption style="text-align: center;">Flash Cart Everdrive para Game Boy Color</caption>
 </figure>   
 

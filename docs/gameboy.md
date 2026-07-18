@@ -8,7 +8,7 @@ A lo largo de los años, Nintendo lanzó varias versiones mejoradas de la Game B
 
 
 <figure>
-<img src="/img/gameboy.png" alt="Game Boy Classic y Pocket" title="Game Boy Classic y Pocket" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="/tallergbstudio/img/gameboy.png" alt="Game Boy Classic y Pocket" title="Game Boy Classic y Pocket" style="display: block; margin-left: auto; margin-right: auto;" />
 <caption style="text-align: center;">Game Boy Classic (1990) y Game Boy Pocket (1996)</caption>
 </figure>
 

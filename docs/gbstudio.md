@@ -3,7 +3,7 @@
 GBStudio es un entorno de desarrollo integrado (IDE) que permite crear juegos para Game Boy y Game Boy Color de manera visual y sin necesidad de conocimientos avanzados de programación. Esta herramienta es especialmente útil para principiantes que desean adentrarse en el mundo del desarrollo de videojuegos para consolas retro, ya que proporciona una interfaz intuitiva y fácil de usar.
 
 <figure>
-<img src="/img/gbstudiologo.jpeg" alt="GBStudio" title="GBStudio" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
+<img src="/tallergbstudio/img/gbstudiologo.jpeg" alt="GBStudio" title="GBStudio" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
 <caption style="text-align: center;">GBStudio Logo (X)</caption>
 </figure>
 

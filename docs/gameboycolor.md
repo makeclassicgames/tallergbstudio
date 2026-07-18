@@ -11,7 +11,7 @@ La Game Boy Color es una versión mejorada de la Game Boy original, lanzada al m
 
 
 <figure>
-<img src="/img/gbcolor.png" alt="Game Boy Color" title="Game Boy Color" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="/tallergbstudio/img/gbcolor.png" alt="Game Boy Color" title="Game Boy Color" style="display: block; margin-left: auto; margin-right: auto;" />
 <caption style="text-align: center;">Game Boy Color (1998)</caption>
 </figure>
 

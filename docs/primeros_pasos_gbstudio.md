@@ -7,7 +7,7 @@ Una vez instalado y ejecutado GBStudio, es hora de dar los primeros pasos en la 
 Al iniciar GBStudio, verás la pantalla de inicio donde podrás crear un nuevo proyecto.
 
 <figure>
-  <img src="/img/gbstudioinicio.png" alt="Crear un nuevo proyecto en GBStudio">
+  <img src="/tallergbstudio/img/gbstudioinicio.png" alt="Crear un nuevo proyecto en GBStudio">
   <figcaption>Figura 1: Pantalla de inicio de GBStudio</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Para crear un nuevo proyecto, sigue estos pasos:
 Una vez creado deberás ver la interfaz principal de GBStudio, donde podrás comenzar a diseñar tu juego.
 
 <figure>
-  <img src="/img/gbstudiomain.png" alt="Interfaz principal de GBStudio">
+  <img src="/tallergbstudio/img/gbstudiomain.png" alt="Interfaz principal de GBStudio">
   <figcaption>Figura 2: Interfaz principal de GBStudio</figcaption>
 </figure>
 
