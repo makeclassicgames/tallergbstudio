@@ -1,4 +1,5 @@
 site_name: Taller Game Boy
+site_url: https://makeclassicgames.dev/tallergbstudio/
 theme:
   name: material
   palette:
