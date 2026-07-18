@@ -6,12 +6,10 @@ theme:
     primary: 'indigo'
     accent: 'indigo'
   font:
-    text: Retro Pixel
+    text: Roboto Mono
     code: Roboto Mono
   features:
-    - navigation.top
-    - navigation.sections
-    - navigation.instant
+
     - search.highlight
     - search.suggest
 markdown_extensions:
@@ -29,8 +27,10 @@ nav:
     - Primeros pasos con GBStudio: primeros_pasos_gbstudio.md
   - Juego para Game Boy:
     - Introducción: juego/introduccion.md
-    - Primeros pasos: juego/primeros_pasos.md
-    - Personajes y objetos: juego/personajes_objetos.md
-    - Escenarios: juego/escenarios.md
-    - Música y efectos de sonido: juego/musica_efectos_sonido.md
+    - Primera Escena: juego/primera_escena.md
+    - Fondos: juego/fondos.md
+    - Actores y Sprites: juego/actores_sprites.md
+    - Acciones (Eventos): juego/acciones_eventos.md
+    - Más Acciones y Escenas: juego/mas_acciones_escenas.md
+    - Música y Sonido: juego/musica_sonido.md
     - Publicación del juego: juego/publicacion_juego.md

@@ -11,9 +11,15 @@ GBStudio es un entorno de desarrollo integrado (IDE) que permite crear juegos pa
 
 - **Interfaz visual:** GBStudio ofrece una interfaz gráfica que permite diseñar niveles, personajes y eventos de manera visual, facilitando la creación de juegos sin necesidad de escribir código.
 - **Compatibilidad con Game Boy y Game Boy Color:** GBStudio permite desarrollar juegos que se pueden ejecutar tanto en la Game Boy original como en la Game Boy Color, lo que amplía las posibilidades de diseño y jugabilidad.
+- **Compatibilidad con dispositivos Super Game Boy:** GBStudio también permite crear juegos que se pueden ejecutar en el Super Game Boy, un accesorio para la consola SNES que permite jugar juegos de Game Boy y Game Boy Color.
 - **Exportación a cartuchos y emuladores:** Los juegos creados con GBStudio se pueden exportar a archivos binarios que se pueden cargar en cartuchos físicos o ejecutar en emuladores de Game Boy y Game Boy Color, lo que permite probar y compartir los juegos fácilmente.
 - **Exportación a Web:** GBStudio también permite exportar los juegos a un formato compatible con navegadores web, lo que facilita la distribución y el acceso a los juegos creados sin necesidad de hardware adicional.
 - **Recursos y documentación:** GBStudio cuenta con una amplia documentación y recursos en línea que ayudan a los desarrolladores a aprender a utilizar la herramienta y a crear juegos de manera efectiva. Esto incluye tutoriales, ejemplos de proyectos y una comunidad activa de usuarios que comparten sus conocimientos y experiencias.
+
+<figure>
+<img src="/tallergbstudio/img/supergameboy.jpeg" alt="Super Game Boy" title="Super Game Boy" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
+<caption style="text-align: center;">Super Game Boy</caption>
+</figure>
 
 ## Requisitos para utilizar GBStudio
 
