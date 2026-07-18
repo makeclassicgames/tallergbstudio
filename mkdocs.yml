@@ -1,0 +1,35 @@
+site_name: Taller Game Boy
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: Retro Pixel
+    code: Roboto Mono
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.instant
+    - search.highlight
+    - search.suggest
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Game Boy:
+    - Game Boy: gameboy.md
+    - Game Boy Color: gameboycolor.md
+  - Desarrollo para Game Boy:
+    - Desarrollo para Game Boy: desarrollo_game_boy.md
+    - GBStudio: gbstudio.md
+    - Primeros pasos con GBStudio: primeros_pasos_gbstudio.md
+  - Juego para Game Boy:
+    - Introducción: juego/introduccion.md
+    - Primeros pasos: juego/primeros_pasos.md
+    - Personajes y objetos: juego/personajes_objetos.md
+    - Escenarios: juego/escenarios.md
+    - Música y efectos de sonido: juego/musica_efectos_sonido.md
+    - Publicación del juego: juego/publicacion_juego.md
