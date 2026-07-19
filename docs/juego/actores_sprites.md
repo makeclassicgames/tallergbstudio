@@ -57,3 +57,6 @@ Para ello, vamos a abrir la vista de _sprites_ que encontrarás en la parte supe
   <figcaption>Figura 2: Ventana de Sprites</figcaption>
 </figure>
 
+Cada Sprite puede tener una hoja de animación; que se compone de varias animaciones, y cada animación puede tener varios frames. Para crear una animación para un sprite, seleccionamos el sprite en la ventana de _sprites_, y veremos en la parte inferior de la ventana, las animaciones y los correspondientes Frames del Sprite.
+
+
