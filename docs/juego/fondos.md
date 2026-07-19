@@ -28,9 +28,30 @@ Por último, vamos a seleccionar el fondo que acabamos de importar para nuestra 
 
 1. Haz click en la escena que quieras modificar para ver sus propiedades en el panel de propiedades.
 2. En la sección de propiedades de la escena, busca la opción _Fondo_ y haz click en el botón de selección de fondo.
-3. Se abrirá una ventana con los fondos disponibles en el proyecto. Selecciona el fondo que acabas de importar y haz click en _Aceptar_.
+3. Se abrirá una ventana con los fondos disponibles en el proyecto. Selecciona el fondo que acabas de importar de la lista.
 
 <figure>
   <img src="/tallergbstudio/img/escenaconfondo.png" alt="Escena con fondo" title="Escena con fondo" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
   <figcaption>Figura 1: Escena con fondo</figcaption>
 </figure>
+
+## Colisiones
+
+Uno de los apartados más importantes de los fondos, es la posibilidad de definir colisiones. Esto nos permite definir qué partes del fondo son sólidas y cuáles no, lo que afecta al movimiento de los sprites y objetos en la escena.
+
+En GBStudio podemos definir las zonas que son sólidas y las que no, utilizando la herramienta de colisiones. Para ello, sigue estos pasos:
+
+1. Haz click en la escena que quieras modificar para ver sus propiedades en el panel de propiedades.
+2. En la barra de herramientas de la izquierda selecciona la herramienta de colisiones (icono de muro de ladrillos).
+3. Selecciona la opción de _sòlido_ y dibuja las zonas del fondo que quieres que sean sólidas. Estas zonas se mostrarán en color rojo.
+
+!!! note
+    Las zonas sólidas son aquellas que impedirán el paso de los sprites y objetos, mientras que las zonas no sólidas permitirán el paso de los mismos. También podemos definir zonas semisólidas, que permitirán el paso de los sprites y objetos, pero con ciertas restricciones, e incluso zonas de escalada, que permitirán a los sprites y objetos escalar por ellas.
+
+
+<figure>
+  <img src="/tallergbstudio/img/colisiones.png" alt="Colisiones" title="Colisiones" style="display: block; margin-left: auto; margin-right: auto; max-height: 350px;" />
+  <figcaption>Figura 2: Colisiones</figcaption>
+</figure>
+
+Lanza ahora tu juego, y verás como el personaje interactúa con el fondo y las colisiones que hemos definido. Esto nos permite crear niveles más complejos y desafiantes para el jugador, y mejorar la experiencia de juego en general.
