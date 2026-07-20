@@ -1,6 +1,10 @@
 # Taller Game Boy
 
-La siguiente web contiene información sobre el taller de Game Boy que se realizó en la euskal encounter 2026. Donde los asistentes aprendieron a crear sus propios juegos para la consola Game Boy, utilizando herramientas y recursos proporcionados por los instructores del taller. A continuación, se detallan los contenidos y materiales utilizados durante el evento.
+La siguiente web contiene información sobre el taller de Game Boy que se realizó en la euskal encounter 2026. Donde los asistentes aprendieron a crear sus propios juegos para la consola Game Boy, utilizando herramientas y recursos proporcionados por los instructores del taller. A continuación, se detallan los contenidos y materiales utilizados durante el evento
+
+Este taller, está orientado a cualquier persona que tenga interés en aprender a desarrollar juegos para la Game Boy, sin necesidad de tener experiencia previa en programación o desarrollo de videojuegos. Se recomienda tener conocimientos básicos de informática y estar familiarizado con el uso de computadoras.
+
+Si quieres más información sobre el taller y los contenidos que damos, puedes visitar el canal de YouTube y Twitch ["Make Classic Games"](https://twitch.tv/makeclassicgames), donde se pueden encontrar tutoriales y recursos para crear juegos retro, incluyendo los utilizados en este taller.
 
 !!! note
     Este taller está orientado a cualquier persona que tenga interés en aprender a desarrollar juegos para la Game Boy, sin necesidad de tener experiencia previa en programación o desarrollo de videojuegos. Se recomienda tener conocimientos básicos de informática y estar familiarizado con el uso de computadoras.

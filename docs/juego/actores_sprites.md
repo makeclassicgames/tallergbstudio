@@ -1,10 +1,4 @@
-# Actores y Sprites
-
-En GBStudio, los actores y sprites son elementos que se pueden agregar a una escena para representar personajes, enemigos, objetos y otros elementos interactivos en el juego. Los actores son entidades que pueden tener comportamientos y acciones definidas, mientras que los sprites son imágenes que representan visualmente a los actores.
-
-En esta sección, aprenderemos cómo importar y utilizar actores y sprites en nuestras escenas, así como cómo definir sus propiedades y comportamientos.
-
-## Actores
+# Actores
 
 Un actor en GBStudio es una entidad que puede tener un comportamiento definido mediante eventos y acciones. Los actores pueden ser personajes jugables, enemigos, NPCs (personajes no jugables) u otros elementos interactivos en el juego.
 
@@ -25,38 +19,20 @@ Para añadir un actor a la escena, seleccionamos la escena a utilizar, y pulsamo
     * **S**: Mosaico: Indica el número de Tiles (mosaicos) en la escena y el máximo permitido.
     * **T**: Actuadores: indica el número de actuadores (Triggers) en la escena y el máximo permitido.
 
-## Sprites
+### Actores y Sprites
 
-Un sprite es una imagen que representa visualmente a un actor en la escena. Los sprites pueden ser estáticos o animados, y debe tener un tamaño mínimo de 16x16px; además, de que cada frame del sprite (en caso de ser animado) debe ser múltiplo de 16px. Los sprites se pueden crear utilizando herramientas de edición de imágenes, como GIMP o Photoshop, y luego se pueden importar a GBStudio como recursos del proyecto.
+Un actor puede tener uno o varios sprites asociados a él, lo que le permite tener diferentes apariencias y animaciones en el juego. Por ejemplo, un actor puede tener un sprite para su apariencia normal, otro sprite para cuando está herido y otro sprite para cuando está muerto.
 
-Un Sprite para Game Boy, debe tener los siguientes colores:
+Vamos a añadir un actor que sea un enemigo; para ello, vamos a la escena y pulsamos en el botón de añadir (+), en el menú de la izquierda, y seleccionamos la opción de _Actor_. Una vez hecho esto, buscaremos en la escena el lugar donde queremos colocar el actor, y haremos click para colocarlo. Una vez colocado, podemos modificar sus propiedades en el panel de propiedades de la derecha.
 
-*  Color 0: #071821 <span style="background-color: #071821; color: #ffffff;">(Color de fondo)</span>
-*  Color 1: #86c06c <span style="background-color: #86c06c; color: #000000;">(Color de primer plano)</span>
-*  Color 2: #e0f8cf <span style="background-color: #e0f8cf; color: #000000;">(Color de segundo plano)</span>
-*  Color 3: #65ff00 <span style="background-color: #65ff00; color: #000000;">(Color transparente)</span>
-
-### Importar un sprite a GBStudio
-
-Para importar un sprite a GBStudio, simplemente copia el archivo de imagen del sprite en la carpeta _assets/sprites_ del proyecto. Asegúrate de que el archivo cumpla con los requisitos de tamaño y color mencionados anteriormente.
-
+El sprite a utilizar lo podrás encontrar con los recursos que has descargado para este taller, en la carpeta _sprites_, y lo puedes importar a GBStudio siguiendo los pasos mencionados en la sección de _Sprites y Animaciones_.
 
 !!! note
-    Recuerda que al inicio de esta sección, has descargado un zip, los sprites los puedes encontrar en la carpeta _sprites_  del mismo, y los puedes importar a GBStudio siguiendo los pasos mencionados anteriormente.
+    El archivo se llama _bee.png_, y contiene una sola animación, que es la de volar. Para asociar el sprite al actor, seleccionamos el actor en la escena y en el panel de propiedades de la derecha, seleccionamos el sprite _bee_ en la opción de _Sprite_.
 
-### Crear animaciones para un sprite
+Para este caso, usaremos las animaciones de tipo _Dirección Fija_, ya que el enemigo solo se moverá en una dirección, y no necesitamos que tenga animaciones para otras direcciones.
 
-Vamos a un apartado importante de los sprites, que es la posibilidad de crear animaciones para ellos. Esto nos permite dar vida a nuestros personajes y enemigos, y hacer que se vean más realistas y atractivos.
+Una vez hecho esto, asociaremos el actor con un Sprite, para ello, seleccionamos el actor en la escena y en el panel de propiedades de la derecha, seleccionamos el sprite _bee_ en la opción de _Hoja de Sprite_. Esto permitirá que el actor tenga la apariencia y animaciones definidas en el sprite.
 
-Recuerda que cada frame de la animación debe tener un tamaño de 16x16px. Por ejemplo, si queremos crear una animación de caminar para un personaje, podemos crear varios frames que muestren al personaje moviendo las piernas y los brazos mientras camina. Luego, podemos definir la velocidad de la animación y el orden de los frames para que se reproduzca correctamente.
-
-Para ello, vamos a abrir la vista de _sprites_ que encontrarás en la parte superior izquierda de la ventana de GBStudio. Esto abrirá la ventana de _sprites_, donde podemos ver todos los sprites disponibles en el proyecto.
-
-<figure>
-  <img src="/tallergbstudio/img/ventanasprites.png" alt="Ventana de Sprites" title="Ventana de Sprites" style="display: block; margin-left: auto; margin-right: auto; max-height: 450px;" />
-  <figcaption>Figura 2: Ventana de Sprites</figcaption>
-</figure>
-
-Cada Sprite puede tener una hoja de animación; que se compone de varias animaciones, y cada animación puede tener varios frames. Para crear una animación para un sprite, seleccionamos el sprite en la ventana de _sprites_, y veremos en la parte inferior de la ventana, las animaciones y los correspondientes Frames del Sprite.
 
 

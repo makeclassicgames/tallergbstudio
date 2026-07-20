@@ -29,8 +29,10 @@ nav:
     - Introducción: juego/introduccion.md
     - Primera Escena: juego/primera_escena.md
     - Fondos: juego/fondos.md
-    - Actores y Sprites: juego/actores_sprites.md
+    - Sprites y Animaciones: juego/sprites_animaciones.md
+    - Actores: juego/actores_sprites.md
     - Acciones (Eventos): juego/acciones_eventos.md
     - Más Acciones y Escenas: juego/mas_acciones_escenas.md
     - Música y Sonido: juego/musica_sonido.md
     - Publicación del juego: juego/publicacion_juego.md
+  - Referencias: referencias.md
