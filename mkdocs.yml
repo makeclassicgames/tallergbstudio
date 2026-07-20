@@ -5,6 +5,8 @@ site_author: Make Classic Games
 site_keywords: Game Boy, Game Boy Color, gbstudio, desarrollo de juegos, tutoriales, recursos, sprites, tilesets, música, sonido, programación, videojuegos retro
 theme:
   name: material
+  logo: img/gbicon.png
+  favicon: img/gbicon.png
   palette:
     primary: 'indigo'
     accent: 'indigo'
