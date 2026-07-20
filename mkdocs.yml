@@ -2,7 +2,6 @@ site_name: Taller Game Boy
 site_url: https://makeclassicgames.dev/tallergbstudio/
 site_description: Taller de desarrollo de juegos para Game Boy y Game Boy Color impartido en la Euskal Encounter 2026 por el canal de YouTube y Twitch "Make Classic Games".
 site_author: Make Classic Games
-site_copyright: Make Classic Games
 site_keywords: Game Boy, Game Boy Color, gbstudio, desarrollo de juegos, tutoriales, recursos, sprites, tilesets, música, sonido, programación, videojuegos retro
 theme:
   name: material
@@ -10,7 +9,7 @@ theme:
     primary: 'indigo'
     accent: 'indigo'
   font:
-    text: Roboto Mono
+    text: Roboto
     code: Roboto Mono
   features:
 
