@@ -16,7 +16,7 @@ Para exportar nuestro juego, pulsaremos el botón de _exportar_ en la parte supe
 Una vez exportado nuestro juego, podemos probarlo en el formato que hayamos elegido, y compartirlo con otras personas para que puedan jugarlo y disfrutarlo.
 
 <figure>
-  <img src="/tallergbstudio/img/exportar.png" alt="Exportar juego" title="Exportar juego" style="display: block; margin-left: auto; margin-right: auto; max-height: 450px;" />
+  <img src="/tallergbstudio/img/exportar.jpg" alt="Exportar juego" title="Exportar juego" style="display: block; margin-left: auto; margin-right: auto; max-height: 450px;" />
   <figcaption>Figura 1: Juego ejecutandose en Game Boy</figcaption>
 </figure>
 
